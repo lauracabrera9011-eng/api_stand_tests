@@ -13,4 +13,10 @@ Pruebas para validar la creación de usuarios con diferentes parámetros del cam
 ## Cómo ejecutar las pruebas
 ```bash
 pytest create_user_test.py
-agregar algo de texto a readme
+agregar algo de texto a readme 2da parte 
+# API Stand Tests
+
+Este es mi proyecto para realizar pruebas de API.
+
+## Descripción
+Aquí practicaré con Git y GitHub.
